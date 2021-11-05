@@ -1,12 +1,12 @@
 {
-  "results": [
-    {
-      "name" : "IX Open Castilla y León Master Invierno",
-      "url" : "https://fenacyl.es/Competiciones/resultados18-19/Master/OPEN%20MASTER%20LEON.pdf"
-    },
-     {
-      "name" : "IX Open Castilla y León Master Verano",
-      "url" : "https://fenacyl.es/Competiciones/resultados18-19/valladolid/VI%20Open%20Master%20Verano%20(Valladolid).pdf"
-    }
-  ]
+	"results": [
+	  	{
+			"name": "IX Open Castilla y León Master Invierno",
+			"url": "https://fenacyl.es/Competiciones/resultados18-19/Master/OPEN%20MASTER%20LEON.pdf"
+		},
+		{
+			"name": "IX Open Castilla y León Master Verano",
+			"url": "https://fenacyl.es/Competiciones/resultados18-19/valladolid/VI%20Open%20Master%20Verano%20(Valladolid).pdf"
+		}
+	]
 }
