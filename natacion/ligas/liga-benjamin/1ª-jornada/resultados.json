@@ -1,1 +1,44 @@
-{}
+{
+  "results": [
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Palencia",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Palencia.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Zamora",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Zamora.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Burgos",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Burgos.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Ávila",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Avila.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Valladolid",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Valladolid.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Ponferrada",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Ponferrada.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Segovia",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Segovia.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - León",
+          "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Benjamin-Leon.pdf"
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Benavente",
+          "url": ""
+        },
+        {
+          "name": "1ª Jornada Liga Territorial Benjamín - Salamanca",
+          "url": ""
+        }
+    ]
+}
