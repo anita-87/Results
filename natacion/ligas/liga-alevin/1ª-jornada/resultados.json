@@ -1,1 +1,44 @@
-{}
+{
+  "results": [
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Zamora",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Zamora.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Burgos",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Burgos.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Ávila",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Avila.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Palencia",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Palencia.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Ponferrada",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Ponferrada.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Segovia",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Segovia.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - León",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Leon.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Valladolid",
+        "url": "https://fenacyl.com/wp-content/uploads/2021/10/Resultados-1a-Jornada-Liga-Alevin-Valladolid.pdf"
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Benavente",
+        "url": ""
+      },
+      {
+        "name": "1ª Jornada Liga Territorial Alevín - Salamanca",
+        "url": ""
+      }
+    ]
+}
