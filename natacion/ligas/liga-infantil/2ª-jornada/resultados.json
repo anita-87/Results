@@ -1,8 +1,48 @@
 {
     "results": [
         {
-            "name": "1ª Jornada Liga Territorial Infantil - Soria",
+            "name": "2ª Jornada Liga Territorial Infantil - Ávila",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Avila.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Benavente",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Benavente.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Burgos",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Burgos.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - León",
+            "url": ""
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Palencia",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Palencia.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Ponferrada",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Ponferrada.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Salamanca",
+            "url": ""
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Segovia",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Segovia.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Soria",
             "url":"https://fenacyl.com/wp-content/uploads/2021/11/Resultados-2a-Jornada-Liga-Infantil-Soria.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Valladolid",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Valladolid.pdf"
+        },
+        {
+            "name": "2ª Jornada Liga Territorial Infantil - Zamora",
+            "url": "https://fenacyl.com/wp-content/uploads/2021/12/Resultados-2a-Jornada-Liga-Infantil-Zamora.pdf"
         }
     ]
 }
